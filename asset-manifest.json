@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shift-management-sample/static/css/main.bcf2333d.css",
+    "main.js": "/shift-management-sample/static/js/main.9a63dcf5.js",
+    "static/js/453.d5681e1b.chunk.js": "/shift-management-sample/static/js/453.d5681e1b.chunk.js",
+    "index.html": "/shift-management-sample/index.html",
+    "main.bcf2333d.css.map": "/shift-management-sample/static/css/main.bcf2333d.css.map",
+    "main.9a63dcf5.js.map": "/shift-management-sample/static/js/main.9a63dcf5.js.map",
+    "453.d5681e1b.chunk.js.map": "/shift-management-sample/static/js/453.d5681e1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf2333d.css",
+    "static/js/main.9a63dcf5.js"
+  ]
+}
